@@ -1,0 +1,10 @@
+body {
+  height: 100%;
+}
+.form-div {
+
+  /* border: 2px solid greenyellow; */
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
